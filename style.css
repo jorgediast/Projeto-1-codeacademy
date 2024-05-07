@@ -1,0 +1,73 @@
+.title_conteiner h1{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.title_conteiner{
+    background-image: url("/img/pattern.webp");
+}
+
+.description_title{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.subtitle{
+    font-family: Helvetica;
+}
+
+.description {
+    font-family: Helvetica;
+}
+
+.price{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.description_title_1{
+    background-color: mediumseagreen;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.description_title_2{
+    background-color: lightcoral;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.description_title_3{
+    background-color: skyblue;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+/*
+.brushes_conteiner {
+    background-image: url("/img/hacksaw.webp");
+    background-repeat: no-repeat;
+}
+
+.frames_conteiner{
+    background-image: url("/img/frames.webp");
+    background-repeat: no-repeat;
+}
+
+.paint_conteiner{
+    background-image: url("/img/finnish.jpeg");
+    background-repeat: no-repeat;
+}
+
+*/
